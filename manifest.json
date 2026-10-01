@@ -1,0 +1,17 @@
+{
+  "name": "Luminaries GitHub Pages Kit",
+  "admobPublisherId": "pub-5403736045950469",
+  "includes": [
+    "landing page",
+    "privacy policy",
+    "support page",
+    "app-ads.txt",
+    "GitHub Pages workflow",
+    "Claude Code deployment prompt"
+  ],
+  "requiredEdits": [
+    "support email",
+    "privacy policy review",
+    "verify app-ads.txt line in AdMob"
+  ]
+}
